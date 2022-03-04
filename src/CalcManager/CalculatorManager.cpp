@@ -34,6 +34,7 @@ namespace CalculationManager
 
     /// <summary>
     /// Call the callback function using passed in IDisplayHelper.
+    /// 
     /// Used to set the primary display value on ViewModel
     /// </summary>
     /// <param name="text">wstring representing text to be displayed</param>
